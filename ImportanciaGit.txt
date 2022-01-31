@@ -1,0 +1,4 @@
+O Git é um controle de versionamento do código, sendo uma ferramenta
+fundamental para novas adaptações do código, proteção das informações
+e gerenciamento das novas versões. Além disso, é possível notar a importância
+do Git/github para a criação de repositórios em equipe de uma forma dinâmica na realização de commits e melhoramento do código em equipe
